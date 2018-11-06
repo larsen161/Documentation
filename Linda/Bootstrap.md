@@ -38,8 +38,8 @@ Make sure Linda wallet is closed
 Click Go in top menu bar and select go to folder
 
 Enter the following in prompt box: ~/Library/Application Support/Linda
-It is a hidden library to open it: Open Finder, click Go on the menu up top near the Apple logo in the corner. Hold down option on keyboard and you'll see library pop up under Go menu.
-that's the hidden library
+
+It is a hidden library to open it: Open Finder, click Go on the menu up topnear the Apple logo in the corner. Hold down option on keyboard and you'll see library pop up under Go menu. It will show the hidden libraries
 
 Copy extracted files, except the autoBootstrap.cmd, to the Linda folder and when prompted click replace or replace all
 

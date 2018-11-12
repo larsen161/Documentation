@@ -15,3 +15,6 @@ Staking is a process whereby you put your coins in a Linda wallet and hold them.
 ## Things to note
 * Sending coins from a wallet will interrupt the staking process of any inputs chosen to fulfill the total amount to send. These interrupted inputs will require 24 hours to remature. It is also likely that any coins of these inputs not sent out will be returned on a new wallet change address.
 * If you wish to also use your wallet for regular transactions, create a separate address for these funds, and use the input selection dialog to choose the coins, this will ensure that staking does not get interrupted.
+
+## Coin control
+Having bigger inputs will result in faster stakes, more information [here](https://github.com/TheLindaProjectInc/Documentation/blob/master/Linda/CoinControl.md).

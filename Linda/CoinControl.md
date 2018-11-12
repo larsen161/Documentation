@@ -1,4 +1,5 @@
-##Linda - Coin Control
+# Linda - Coin Control
+
 Every time your coins stake they get split into two. Also, as you send more coins to your wallet they stake as separate parcels of coins. A good practice to improve the speed of creating blocks is to use ‘coin control’, which is basically sending your own coins from your wallet back to your wallet (instantaneous) as one parcel.
 
 Go to Settings > Options > Display > Enable coin control

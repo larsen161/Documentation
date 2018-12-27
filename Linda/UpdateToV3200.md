@@ -23,6 +23,7 @@ Note: You can't run multiple Altitude instance on the same computer
 * Mac: Navigate to `~/Library/Application Support/Linda`
 
 Delete the files as explained above.
+
 4. Download the Altitude installation file and perform the installation process
 5. The v3.1.0.1 wallet needed around 36 hours for a sync from scratch, the new v3.2.0.0 will sync from scratch in a few (~6) hours. We did create a [v3.2.0.0 bootstrap](https://drive.google.com/open?id=1vJr59oEIKlPWUMo8Uzf87HOPKPETdOcj) if anyone wishes to use it.
 

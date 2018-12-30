@@ -33,7 +33,7 @@ Bootstrap steps:
 * Close Altitude wallet
 * Download the Bootstrap
 * Unzip the bootstrap
-* Replace the files in your application folder (see step 3 for the folder location) with the files from the bootstrap.
+* Replace the files in your application folder (see step 4 for the folder location) with the files from the bootstrap.
 * Once done, open the Altitude wallet again. It will reindex all transactions.
 7. Enjoy the new wallet!
 

@@ -3,14 +3,14 @@
 V3.2.0.0 has a few key changes in comparison to the previous (v3.1.0.1) wallet:
 * Brand new interface (coded from scratch) for Windows, Mac and Linux (non-cli)
 * First step in changing from the old (full block) to the new (head-first) syncing method
-* More info: see v3.2.0.0 release notes
+* More info: see [v3.2.0.0 release notes](https://github.com/TheLindaProjectInc/Linda/blob/master/doc/release-notes/release-notes-3.2.0.0.md)
 
 ## Required steps to perform:
 1. Open your wallet and make a backup BEFORE you continue with anything
 2. Close your wallet when the backup is successful
 3. Delete ALL Linda-QT files you have downloaded in the past, you don't need them anymore
 4. Prepare your backend files for the new wallet (see in-depth below)
-5. Install Altitude on your PC
+5. Install Altitude on your PC > [Download](https://github.com/TheLindaProjectInc/Altitude/releases/latest)
 6. Let it sync from scratch or use a bootstrap
 7. Enjoy the new wallet!
 

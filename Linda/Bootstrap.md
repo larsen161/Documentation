@@ -10,13 +10,12 @@ Navigate in your browser to [bit.ly/lindabootstrap](https://bit.ly/lindabootstra
 On the right top corner select Download & Direct download
 
 ## Content in bootstrap file
-The zip file should contain 3 files and 2 folders
+The zip file should contain 3 files and 1 folders
 - Files: 
 peers.dat,
 blk0001.dat,
 autoBootstrap.cmd
-- Folders: 
-database,
+- Folder: 
 txleveldb
 
 ## Applying the bootstrap to Windows
